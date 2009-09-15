@@ -1,0 +1,5 @@
+English.lproj
+build
+cocoatest.xcodeproj
+cocoatest_Prefix.pch
+cocoatest-Info.plist
